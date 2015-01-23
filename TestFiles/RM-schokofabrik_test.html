@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html>
+<head><title>RM-generator v1.1</title></head>
+<body>
+
+<div id='header' style='border-bottom: 2px solid black;'>
+<h2>RM - schokofabrik_test</h2>
+</div>
+
+<div id='model' style='font-size: 16px; font-family: Courier New;'>
+<table border='0'>
+<tr><td style='font-weight: bold;'>auftrag</td><td>(<u><i>firma.fname</i></u>, auftragsdat, status)</td></tr>
+<tr><td style='font-weight: bold;'>bedienung</td><td>(<u><i>maschine.mnr</i></u>, <u><i>mitarbeiter.pnr</i></u>)</td></tr>
+<tr><td style='font-weight: bold;'>bestellung</td><td>(<u><i>auftrag.fname</i></u>, <u><i>produkt.prodnr</i></u>)</td></tr>
+<tr><td style='font-weight: bold;'>firma</td><td>(<u>fname</u>, kontaktadr, telnr)</td></tr>
+<tr><td style='font-weight: bold;'>herstellung</td><td>(<u><i>produkt.prodnr</i></u>, <u><i>maschine.mnr</i></u>)</td></tr>
+<tr><td style='font-weight: bold;'>kuendigungsdatum</td><td>(<u><i>mitarbeiter.pnr</i></u>, kdat)</td></tr>
+<tr><td style='font-weight: bold;'>kuenstler</td><td>(<u><i>person.pnr</i></u>, bekanntheitsgrad)</td></tr>
+<tr><td style='font-weight: bold;'>kunstschau</td><td>(<u>kname</u>, <u>kdatum</u>, kland, kort, platz)</td></tr>
+<tr><td style='font-weight: bold;'>kunstwerk</td><td>(<u><i>produkt.prodnr</i></u>, schaetzwert)</td></tr>
+<tr><td style='font-weight: bold;'>lager</td><td>(<u>lbez</u>, flaeche)</td></tr>
+<tr><td style='font-weight: bold;'>lagerung</td><td>(<u><i>lager.lbez</i></u>, <u><i>produkt.prodnr</i></u>, menge)</td></tr>
+<tr><td style='font-weight: bold;'>maschine</td><td>(<u>mnr</u>, mbesch)</td></tr>
+<tr><td style='font-weight: bold;'>mitarbeiter</td><td>(<u><i>person.pnr</i></u>, edat, <i>lager.lbez</i>)</td></tr>
+<tr><td style='font-weight: bold;'>person</td><td>(<u>pnr</u>, nname, vname)</td></tr>
+<tr><td style='font-weight: bold;'>praesentation</td><td>(<u><i>kunstschau.kname</i></u>, <u><i>kunstschau.kdatum</i></u>, <u><i>kuenstler.pnr</i></u>, <u><i>kunstwerk.prodnr</i></u>)</td></tr>
+<tr><td style='font-weight: bold;'>produkt</td><td>(<u>prodnr</u>, prodbez, gewicht)</td></tr>
+<tr><td style='font-weight: bold;'>standardsortiment</td><td>(<u><i>produkt.prodnr</i></u>, vpreis, verpackungsart)</td></tr>
+</table>
+</div>
+
+</body>
+</html>
