@@ -1,0 +1,136 @@
+commit 4a8218bcb153f52acd86c59851e3363e146cc1b3
+Merge: e619d43 8fdc40b
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Thu Feb 19 12:37:01 2015 +0100
+
+    Merge branch 'master' of https://github.com/tgm1314-sschwarz/Rueckwertssalto
+    
+    Conflicts:
+    	Beispiel -jar input.txt
+
+commit e619d431c0fc2bbce28aa2bef954e6135dca5e7f
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Thu Feb 19 12:35:02 2015 +0100
+
+    javadoc, .jar und ergebnisse
+
+commit 0e715391dcf900cf7df80c7fe6f833bae50dcf59
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Thu Feb 19 12:30:57 2015 +0100
+
+    fertiges programm
+
+commit 8fdc40b137618957c343ec8689db8c9dc5d2dbc0
+Author: mgala <mgala@student.tgm.ac.at>
+Date:   Fri Jan 23 10:57:03 2015 +0100
+
+    Update Beispiel -jar input.txt
+
+commit ce320a1bdde8d55b0335a8a26f8b121fa7b6e27b
+Merge: 41b0a05 a6d8c2e
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Fri Jan 23 10:38:48 2015 +0100
+
+    Merge branch 'master' of https://github.com/tgm1314-sschwarz/Rueckwertssalto
+
+commit 41b0a05a22fd2029d23142d80eae0f7d5ac8f558
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Fri Jan 23 10:37:36 2015 +0100
+
+    valides HTML dokument mit schönerer Struktur
+
+commit a6d8c2e08a695fb304e4ce502277893906461550
+Author: Mateusz <mgala@student.tgm.ac.at>
+Date:   Fri Jan 23 10:35:34 2015 +0100
+
+    Verschoben
+
+commit c1cff6454b49e0c5218896439c16ceef900d3164
+Author: Mateusz <mgala@student.tgm.ac.at>
+Date:   Fri Jan 23 10:32:24 2015 +0100
+
+    Requirements & UML verschoben
+
+commit 47644becc6c4f0b77aa7862a7cd4629366615357
+Author: Mateusz <mgala@student.tgm.ac.at>
+Date:   Fri Jan 23 10:31:21 2015 +0100
+
+    Beispiel input
+
+commit e1e3729065d1c64a7d715d732eef0fcbc5e0a6e4
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Wed Jan 21 17:30:11 2015 +0100
+
+    TestFiles
+
+commit 6ec9b33f79457bc2222f3d5990ac59407f4c4e5a
+Merge: a6bcb92 776a326
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Wed Jan 21 17:26:34 2015 +0100
+
+    Merge branch 'master' of https://github.com/tgm1314-sschwarz/Rueckwertssalto
+    
+    Conflicts:
+    	src/gala/schwarz/connection/Connector.java
+    	src/gala/schwarz/parser/Parser.java
+
+commit a6bcb927f4802138fce96a6063406b1838a42528
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Wed Jan 21 17:23:40 2015 +0100
+
+    Programm welches ein RM erstellt
+
+commit 092f68a764afb435e56924a4739b2ce09c15bea3
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Wed Jan 21 17:23:20 2015 +0100
+
+    Programm welches ein RM erstellt
+
+commit c92ec90e36f5935521d5e6c67b7c71669828092b
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Wed Jan 21 17:23:07 2015 +0100
+
+    Programm welches ein RM erstellt
+
+commit e3acd4b27f197c56b686760a5fa0d2ef1548f0ee
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Wed Jan 21 17:22:46 2015 +0100
+
+    programm welches bisher ein RM erstellt
+
+commit 776a326fd8cc48289ee1c1e5231e007aa0a3e8b5
+Author: Mateusz <mgala@student.tgm.ac.at>
+Date:   Wed Jan 21 11:08:30 2015 +0100
+
+    Löschen von alten Daten, damit die neue Version gepusht werden kann
+
+commit b4b545adca91b384b27afcf04efb8203b2c32bfa
+Author: Mateusz <mgala@student.tgm.ac.at>
+Date:   Wed Jan 14 10:43:48 2015 +0100
+
+    Tab "von" erstellt
+
+commit 92a7799a00d49707bbfebe6bfed64478c57ce5c3
+Merge: 8070dc4 fbc74de
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Wed Jan 14 10:37:42 2015 +0100
+
+    Merge branch 'master' of https://github.com/tgm1314-sschwarz/Rueckwertssalto
+
+commit 8070dc44d2998cfd074a2573c63d637425da6773
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Wed Jan 14 10:36:09 2015 +0100
+
+    UML-Diagramm
+
+commit fbc74de5e00d39575c0d8bae69cf0e5649fd281c
+Author: Mateusz <mgala@student.tgm.ac.at>
+Date:   Wed Jan 14 10:34:51 2015 +0100
+
+    Eine Requirements Analyse
+
+commit e690aec11e983afdc2610142d7855b11ae1fc984
+Author: Stephan Schwarz <sschwarz@student.tgm.ac.at>
+Date:   Wed Jan 14 10:25:12 2015 +0100
+
+    UML-Diagramm
